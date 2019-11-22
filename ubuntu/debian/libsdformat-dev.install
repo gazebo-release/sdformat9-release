@@ -1,0 +1,6 @@
+usr/include/*
+usr/lib/*/*.so
+usr/lib/*/pkgconfig/*.pc
+usr/lib/*/cmake/sdformat9/*
+usr/lib/ruby/ignition/*.rb
+usr/share/ignition/*.yaml
