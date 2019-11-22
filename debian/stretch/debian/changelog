@@ -1,3 +1,9 @@
+sdformat9 (9.0.0~pre1-1~stretch) stretch; urgency=medium
+
+  * sdformat9 9.0.0~pre1-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Fri, 22 Nov 2019 13:53:18 -0800
+
 sdformat9 (8.999.999-1~stretch) stretch; urgency=medium
 
   * Stub
