@@ -1,0 +1,59 @@
+sdformat9 (9.1.0-1~focal) focal; urgency=medium
+
+  * sdformat9 9.1.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Wed, 29 Jan 2020 21:31:35 -0800
+
+sdformat9 (9.1.0~pre2-1~focal) focal; urgency=medium
+
+  * sdformat9 9.1.0~pre2-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Fri, 24 Jan 2020 16:27:15 -0800
+
+sdformat9 (9.1.0~pre1-1~focal) focal; urgency=medium
+
+  * sdformat9 9.1.0~pre1-1 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Wed, 22 Jan 2020 22:43:30 -0800
+
+sdformat9 (9.0.0-1~focal) focal; urgency=medium
+
+  * sdformat9 9.0.0-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 10 Dec 2019 17:18:15 +0100
+
+sdformat9 (9.0.0~pre4-1~focal) focal; urgency=medium
+
+  * sdformat9 9.0.0~pre4-1 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Fri, 06 Dec 2019 10:22:38 -0800
+
+sdformat9 (9.0.0~pre3-1~focal) focal; urgency=medium
+
+  * sdformat9 9.0.0~pre3-1 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Wed, 04 Dec 2019 20:05:00 -0800
+
+sdformat9 (9.0.0~pre2-1~focal) focal; urgency=medium
+
+  * sdformat9 9.0.0~pre2-1 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Wed, 04 Dec 2019 16:16:06 -0800
+
+sdformat9 (9.0.0~pre1-2~focal) focal; urgency=medium
+
+  * sdformat9 9.0.0~pre1-2 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Fri, 22 Nov 2019 14:49:37 -0800
+
+sdformat9 (9.0.0~pre1-1~focal) focal; urgency=medium
+
+  * sdformat9 9.0.0~pre1-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Fri, 22 Nov 2019 13:53:18 -0800
+
+sdformat9 (8.999.999-1~focal) focal; urgency=medium
+
+  * Stub
+
+ -- Louise Poubel <louise@openrobotics.org>  Wed, 22 Nov 2019 13:36:18 -0800
