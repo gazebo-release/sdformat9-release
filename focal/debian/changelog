@@ -1,3 +1,9 @@
+sdformat9 (9.3.0-1~focal) focal; urgency=medium
+
+  * sdformat9 9.3.0-1 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Mon, 07 Sep 2020 09:45:51 -0700
+
 sdformat9 (9.3.0~pre1-1~focal) focal; urgency=medium
 
   * sdformat9 9.3.0~pre1-1 release
