@@ -1,3 +1,9 @@
+sdformat9 (9.5.0-1~sid) sid; urgency=medium
+
+  * sdformat9 9.5.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Thu, 11 Feb 2021 12:00:04 -0800
+
 sdformat9 (9.4.0-1~sid) sid; urgency=medium
 
   * sdformat9 9.4.0-1 release
