@@ -14,7 +14,7 @@ override_dh_auto_configure:
 	    -DCMAKE_BUILD_TYPE=RelWithDebInfo
 
 # Tests are broken without a installed copy of sdformat.
-# see: https://bitbucket.org/osrf/sdformat/issue/35
+# see: https://github.com/gazebosim/sdformat/issue/35
 override_dh_auto_test:
 	true
 
