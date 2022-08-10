@@ -14,8 +14,8 @@ Build-Depends: cmake,
                ruby,
                libignition-tools-dev,
                libignition-math6-dev
-Vcs-Browser: https://github.com/gazebo-tooling/sdformat9-release
-Vcs-Git: https://github.com/gazebo-tooling/sdformat9-release
+Vcs-Browser: https://github.com/gazebosim/sdformat
+Vcs-Git: https://github.com/gazebosim/sdformat
 Homepage: http://sdformat.org
 
 Package: libsdformat9
