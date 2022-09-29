@@ -1,3 +1,9 @@
+sdformat9 (9.9.0-1~sid) sid; urgency=medium
+
+  * sdformat9 9.9.0-1 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Thu, 29 Sep 2022 08:46:46 -0700
+
 sdformat9 (9.9.0~pre1-1~sid) sid; urgency=medium
 
   * sdformat9 9.9.0~pre1-1 release
