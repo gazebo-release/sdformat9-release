@@ -1,3 +1,9 @@
+sdformat9 (9.10.0~pre2-1~sid) sid; urgency=medium
+
+  * sdformat9 9.10.0~pre2-1 release
+
+ -- Nate Koenig <nate@openrobotics.org>  Wed, 30 Nov 2022 11:33:21 -0800
+
 sdformat9 (9.10.0~pre1-1~sid) sid; urgency=medium
 
   * sdformat9 9.10.0~pre1-1 release
