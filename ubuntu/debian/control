@@ -13,7 +13,7 @@ Build-Depends: cmake,
                texlive-latex-extra,
                ruby,
                libignition-tools-dev,
-               libignition-math6-dev
+               libignition-math6-dev (>= 6.13.0)
 Vcs-Browser: https://github.com/gazebosim/sdformat
 Vcs-Git: https://github.com/gazebosim/sdformat
 Homepage: http://sdformat.org
@@ -48,7 +48,7 @@ Architecture: any
 Section: libdevel
 Depends: libtinyxml-dev,
          libignition-tools-dev,
-         libignition-math6-dev,
+         libignition-math6-dev (>= 6.13.0),
          libsdformat9 (= ${binary:Version}),
          ${misc:Depends}
 Breaks: libsdformat2-dev,
