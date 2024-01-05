@@ -1,3 +1,9 @@
+sdformat9 (9.10.1-1~sid) sid; urgency=medium
+
+  * sdformat9 9.10.1-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Fri, 05 Jan 2024 16:09:43 -0600
+
 sdformat9 (9.10.0-1~sid) sid; urgency=medium
 
   * sdformat9 9.10.0-1 release
