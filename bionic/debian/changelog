@@ -1,3 +1,9 @@
+sdformat9 (9.10.2-1~bionic) bionic; urgency=medium
+
+  * sdformat9 9.10.2-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Fri, 31 Jan 2025 11:50:36 -0600
+
 sdformat9 (9.10.1-1~bionic) bionic; urgency=medium
 
   * sdformat9 9.10.1-1 release
